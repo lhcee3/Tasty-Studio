@@ -1,5 +1,6 @@
 # Tasty Studio
 **Description**
+
 Tasty studio is a simple yet effective website that has been coded with the beginner tech stack.
 Feel free to explore.
 
