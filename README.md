@@ -17,16 +17,6 @@ Feel free to explore.
    cd Tasty-Studio
    ```
 
-
-**Usage**
-
-* Using the Linting Tool:
-    ```
-    bash
-    ./scripts/lint.sh
-    ```
-* ...
-
 **Contributing**
 Fork the repository.
 Create a new branch {git checkout -b feature-branch}.
