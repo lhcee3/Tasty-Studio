@@ -29,4 +29,4 @@ Open a pull request.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 **Additional Information**
-Reach me out at {https://x.com/lhcee3}
+Reach me out at my [twitter](x.com/lhcee3)
