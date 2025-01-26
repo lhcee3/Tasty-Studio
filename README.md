@@ -2,7 +2,6 @@
 
 Tasty Studio is a straightforward yet delightful website built with a beginner-friendly tech stack. Dive in, explore, and enjoy the simplicity.
 
----
 
 ## **Getting Started**
 
